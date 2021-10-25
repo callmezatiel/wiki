@@ -8,7 +8,7 @@ Dependencies
 | ------ | ------ |
 | yay |  Yet another yogurt. Pacman wrapper and AUR helper written in go. (Non-optional) |
 | arch-wiki-man |  The Arch wiki as Linux man pages (Non-optional) |
-
+| firefox | Web navigator (Non-optional) |
 
 And some commands in automatic way to do its job i hope you like my tool.
 
